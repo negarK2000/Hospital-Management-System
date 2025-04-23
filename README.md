@@ -10,8 +10,8 @@ This is a RESTful API server for a Hospital Management System, built using Pytho
 
 The server provides two primary services:
 
-1. [Hospital Admission System](1-admission-system-api)
-2. [Hospital Blood Bank System](2-Blood-bank-api)
+1. [Hospital Admission System](-admission-system-api)
+2. [Hospital Blood Bank System](-blood-bank-api)
 
 ---
 
