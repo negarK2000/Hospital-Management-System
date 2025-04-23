@@ -1,6 +1,6 @@
 # Hospital Management System
 
-[![Hospital Management System YouTube Video](https://img.youtube.com/vi/visozPx7R2o/0.jpg)](https://youtu.be/visozPx7R2o)
+[![Hospital Management System YouTube Video](https://img.youtube.com/vi/UxrR2jmaVbA/0.jpg)](https://youtu.be/UxrR2jmaVbA)
 
 This is a RESTful API server for a Hospital Management System, built using Python and the Flask framework. The system is designed to manage hospital admissions and monitor blood bank resources efficiently. It supports multiple clients interacting with a central server using standard HTTP methods.
 
@@ -10,8 +10,8 @@ This is a RESTful API server for a Hospital Management System, built using Pytho
 
 The server provides two primary services:
 
-1. [Hospital Admission System](admission-system-api)
-2. [Hospital Blood Bank System](blood-bank-api)
+1. [Hospital Admission System](#admission-system-api)
+2. [Hospital Blood Bank System](#blood-bank-api)
 
 ---
 
@@ -91,8 +91,8 @@ The server provides two primary services:
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/hospital-management-system.git
-cd hospital-management-system
+git clone https://github.com/negarK2000/Hospital-Management-System.git
+cd Hospital-Management-System
 pip install -r requirements.txt
 python admission.py
 python bloodbank.py
