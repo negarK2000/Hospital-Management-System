@@ -10,12 +10,12 @@ This is a RESTful API server for a Hospital Management System, built using Pytho
 
 The server provides two primary services:
 
-1. [Hospital Admission System](-admission-system-api)
-2. [Hospital Blood Bank System](-blood-bank-api)
+1. [Hospital Admission System](admission-system-api)
+2. [Hospital Blood Bank System](blood-bank-api)
 
 ---
 
-## 🛏️ Admission System API
+## Admission System API
 
 ### 1. `POST /beds-num`
 
@@ -43,7 +43,7 @@ The server provides two primary services:
 
 ---
 
-## 🩸 Blood Bank API
+## Blood Bank API
 
 ### 1. `POST /blood-bank`
 
