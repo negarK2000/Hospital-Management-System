@@ -1,6 +1,6 @@
 # Hospital Management System
 
-[![Hospital Management System YouTube Video](https://img.youtube.com/vi/UxrR2jmaVbA/0.jpg)](https://youtu.be/UxrR2jmaVbA)
+[![Hospital Management System YouTube Video](https://img.youtube.com/vi/hptyr16E050/0.jpg)](https://www.youtube.com/watch?v=hptyr16E050)
 
 This is a RESTful API server for a Hospital Management System, built using Python and the Flask framework. The system is designed to manage hospital admissions and monitor blood bank resources efficiently. It supports multiple clients interacting with a central server using standard HTTP methods.
 
